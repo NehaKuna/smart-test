@@ -1,0 +1,2 @@
+# smart-test
+selenium tests
